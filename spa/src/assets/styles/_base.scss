@@ -1,0 +1,30 @@
+.pointer {
+  cursor: pointer;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.box-border {
+  box-sizing: border-box
+}
+
+.overflow-x-scroll {
+  overflow-x: scroll
+}
+
+.overflow-y-scroll {
+  overflow-y: scroll
+}
+
+@import "base/size";
+@import "base/flex";
+@import "base/color";
+@import "base/space";
+@import "base/font";
+@import "base/shadow";

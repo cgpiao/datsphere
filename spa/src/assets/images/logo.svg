@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64">
+    <title>画板备份 3@3x</title>
+    <defs>
+        <linearGradient x1="62.4635432%" y1="53.7544422%" x2="45.5764858%" y2="46.3304447%" id="linearGradient-1">
+            <stop stop-color="#F6C168" offset="0%"></stop>
+            <stop stop-color="#EA8E37" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.4201778%" y1="53.990621%" x2="50%" y2="43.8073889%" id="linearGradient-2">
+            <stop stop-color="#F6C168" offset="0%"></stop>
+            <stop stop-color="#EA8E37" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.4660395%" y1="45.1322249%" x2="55.8988848%" y2="54.7403208%" id="linearGradient-3">
+            <stop stop-color="#F6C168" offset="0%"></stop>
+            <stop stop-color="#EA8E37" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.2596184%" y1="47.1456471%" x2="54.9354148%" y2="57.7895351%" id="linearGradient-4">
+            <stop stop-color="#F6C168" offset="0%"></stop>
+            <stop stop-color="#EA8E37" offset="100%"></stop>
+        </linearGradient>
+        <filter id="filter-5">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="画板备份-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="矩形备份-12" fill="url(#linearGradient-1)" points="12 33.6591141 47.0729172 18 63 25.9327549 29.2803078 42"></polygon>
+        <polygon id="矩形备份-13" fill="url(#linearGradient-2)" points="65 25.8025921 81.0080464 18 116 33.8478347 100.055309 42"></polygon>
+        <polygon id="矩形备份-14" fill="url(#linearGradient-3)" points="64 58.2453879 100.063096 42 116 50.4068837 81.8805114 67"></polygon>
+        <polygon id="矩形备份-15" fill="url(#linearGradient-4)" points="13 49.7802918 29.7742062 42 64 58.4698881 47.698173 66"></polygon>
+        <polygon id="路径备份-2" fill="#EA8E37" points="29 88.8041043 29 63 46.1332976 71.5377151 64.4069426 63 81.923012 71.5377151 99 63 99 88.6364209 64.4069426 107"></polygon>
+        <g filter="url(#filter-5)" id="编组-2备份-4">
+            <g transform="translate(64.500000, 85.500000) rotate(-2.000000) translate(-64.500000, -85.500000) translate(55.000000, 73.000000)">
+                <polygon id="路径" fill="#EA8E37" points="1.68210068 19.2758527 1.68210068 12.7006006 5.99836815 10.7154808 5.99836815 15.4976553 11.7230168 18.6856214 15.6935429 16.478187 18.6821007 20.9368468 11.7230168 24.7154808"></polygon>
+                <polygon id="路径" fill="#EA8E37" points="1.00661372 11.6056552 0.904572521 6.04485894 11.0886757 0.605655186 18.9045725 4.2624842 15.6853233 7.91931322 11.4786402 6.04485894"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

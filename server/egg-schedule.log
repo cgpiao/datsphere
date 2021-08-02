@@ -1,0 +1,48 @@
+2021-05-04 16:55:52,317 INFO 27804 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 16:55:52,317 INFO 27804 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 16:55:52,317 INFO 27804 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 16:55:52,578 INFO 27803 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41647423ms at 2021-05-05 04:30:00.001
+2021-05-04 16:55:52,579 INFO 27803 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25447421ms at 2021-05-05 00:00:00.000
+2021-05-04 16:55:52,579 INFO 27803 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25448421ms at 2021-05-05 00:00:01.000
+2021-05-04 17:00:12,143 INFO 27938 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:00:12,143 INFO 27938 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:00:12,143 INFO 27938 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:00:12,404 INFO 27937 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41387598ms at 2021-05-05 04:30:00.002
+2021-05-04 17:00:12,404 INFO 27937 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25187596ms at 2021-05-05 00:00:00.000
+2021-05-04 17:00:12,404 INFO 27937 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25188596ms at 2021-05-05 00:00:01.000
+2021-05-04 17:02:41,224 INFO 28197 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:02:41,224 INFO 28197 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:02:41,224 INFO 28197 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:02:41,526 INFO 28196 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41238476ms at 2021-05-05 04:30:00.002
+2021-05-04 17:02:41,526 INFO 28196 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25038474ms at 2021-05-05 00:00:00.000
+2021-05-04 17:02:41,527 INFO 28196 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25039474ms at 2021-05-05 00:00:01.001
+2021-05-04 17:03:01,645 INFO 28215 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:03:01,645 INFO 28215 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:03:01,645 INFO 28215 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:03:09,843 INFO 28223 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:03:09,843 INFO 28223 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:03:09,843 INFO 28223 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:03:16,441 INFO 28227 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:03:16,441 INFO 28227 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:03:16,441 INFO 28227 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:03:23,535 INFO 28229 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:03:23,535 INFO 28229 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:03:23,535 INFO 28229 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:05:37,769 INFO 28706 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:05:37,769 INFO 28706 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:05:37,769 INFO 28706 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:05:38,250 INFO 28705 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41061753ms at 2021-05-05 04:30:00.003
+2021-05-04 17:05:38,251 INFO 28705 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24861750ms at 2021-05-05 00:00:00.001
+2021-05-04 17:05:38,251 INFO 28705 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24862749ms at 2021-05-05 00:00:01.000
+2021-05-04 17:07:14,311 INFO 28972 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:07:14,311 INFO 28972 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:07:14,311 INFO 28972 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:07:14,618 INFO 28971 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40965384ms at 2021-05-05 04:30:00.002
+2021-05-04 17:07:14,619 INFO 28971 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24765381ms at 2021-05-05 00:00:00.000
+2021-05-04 17:07:14,619 INFO 28971 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24766381ms at 2021-05-05 00:00:01.000
+2021-05-04 17:11:08,884 INFO 29426 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-04 17:11:08,884 INFO 29426 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-05-04 17:11:08,884 INFO 29426 [egg-schedule]: register schedule /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-04 17:11:09,180 INFO 29425 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40730823ms at 2021-05-05 04:30:00.002
+2021-05-04 17:11:09,180 INFO 29425 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24530820ms at 2021-05-05 00:00:00.000
+2021-05-04 17:11:09,180 INFO 29425 [Timer] /Users/piaocg/Workspace/datsphere/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24531820ms at 2021-05-05 00:00:01.000

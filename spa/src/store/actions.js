@@ -1,0 +1,8 @@
+export const FOLDER_CREATE = "FOLDER_CREATE"
+export const FOLDER_UPLOAD = "FOLDER_UPLOAD"
+export const FILE_INDEX = "FILE_INDEX"
+export const FILE_CREATE = "FILE_CREATE"
+export const FILE_UPDATE = "FILE_UPDATE"
+export const FILE_UPLOAD = "FILE_UPLOAD"
+export const HASH_UPLOAD = "HASH_UPLOAD"
+export const OPEN_FOLDER = "OPEN_FOLDER"

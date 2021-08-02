@@ -1,0 +1,13 @@
+$--color-primary: #0d6efd;
+$--color-secondary: #6c757d;
+$--color-success: #198754;
+$--color-warning: #ffc107;
+$--color-danger: #dc3545;
+$--color-info: #0dcaf0;
+@import "~element-plus/packages/theme-chalk/src/index";
+.el-tree {
+  background: transparent !important;
+}
+.el-tree__empty-block {
+  min-height: 0;
+}
